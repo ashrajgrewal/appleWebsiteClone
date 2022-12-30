@@ -1,2 +1,2 @@
-# appleWebsiteClone
-a primitive clone of apple's homepage using bootstrap
+# instagramWebsiteClone
+a primitive clone of instagram's homepage using bootstrap
