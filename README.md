@@ -1,2 +1,2 @@
 # instagramWebsiteClone
-a primitive clone of instagram's homepage using bootstrap
+a primitive clone of instagram's login page using bootstrap
